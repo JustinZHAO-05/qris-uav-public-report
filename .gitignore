@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+outputs/
+data/external/ibtracs.WP.list.v04r01.csv
+*.fig

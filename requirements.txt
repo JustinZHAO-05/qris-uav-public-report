@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+cvxpy
+geopandas
+pyproj
+shapely
+python-pptx
+pillow
+requests
+tabulate
